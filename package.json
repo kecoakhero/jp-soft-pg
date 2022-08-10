@@ -1,0 +1,25 @@
+{
+  "name": "bocoran-slot-online-pg-soft-gampang-jp",
+  "main": "pg-soft-jackpot",
+  "theme": "ui",
+  "version": "1.24.0",
+  "description": "LEXUSMPO || Bocoran Situs Slot Online PG Soft Gampang JP",
+  "keywords": [
+    "bocoran slot online pg soft",
+    "slot online PGSoft",
+    "slot online PGSoft Jp",
+    "slot online terbesar",
+    "slot pg soft terpercaya",
+	   "slot online pg soft terpercaya",
+	      "slot online pg soft bet kecil",
+    "slot pg soft gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "bocoran-pg-soft:toggle"
+  },
+  "repository": "https://github.com/kecoakhero/jp-soft-pg.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
